@@ -1,2 +1,2 @@
 # Azure-ML
-ML using Azure SDK
+Deploying ML Services using Azure SDK
