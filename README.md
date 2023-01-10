@@ -1,2 +1,2 @@
 # Azure-ML
-Deploying ML Services using Azure SDK
+Implementation & Deployment of ML Services in Azure
