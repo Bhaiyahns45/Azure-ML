@@ -1,4 +1,4 @@
 # Azure-ML
 Implementation & Deployment of ML Services in Azure
 
-<img width="136" alt="image" src="https://user-images.githubusercontent.com/72096831/211571049-f54bddb6-a626-4445-8722-f09b425ce749.png">
+<img width="354" alt="image" src="https://user-images.githubusercontent.com/72096831/211571279-39b910df-2cb1-465f-9ada-3eb04b1a9982.png">
